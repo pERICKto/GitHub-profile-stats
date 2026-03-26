@@ -1,13 +1,13 @@
 import { ThemeConfig } from "./types";
 
 export const themes: Record<string, ThemeConfig> = {
-  default: {
-    name: "Default",
-    bg: "#0d1117",
-    text: "#c9d1d9",
-    title: "#58a6ff",
-    icon: "#58a6ff",
-    border: "#30363d",
+  Nostromo: {
+    name: "Nostromo",
+    bg: "#000800",
+    text: "#95d2d3",
+    title: "#fee049",
+    icon: "#852639",
+    border: "#c2c0ac",
   },
   light: {
     name: "Light",
