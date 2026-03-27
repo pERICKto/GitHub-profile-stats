@@ -1,8 +1,8 @@
 import { ThemeConfig } from "./types";
 
 export const themes: Record<string, ThemeConfig> = {
-  Nostromo: {
-    name: "Nostromo",
+  nostromo: {
+    name: "nostromo",
     bg: "#000800",
     text: "#95d2d3",
     title: "#fee049",

@@ -17,9 +17,8 @@ const THEMES: Record<
   ocean: { name: "Ocean", bg: "#0b1929", title: "#00bfff", icon: "#00e5ff", text: "#a3c4e0", border: "#1a3a5c" },
   sunset: { name: "Sunset", bg: "#1a1025", title: "#ff6b6b", icon: "#ffa07a", text: "#e8d5c4", border: "#4a2040" },
   forest: { name: "Forest", bg: "#0d1f0d", title: "#4ec9b0", icon: "#6a9955", text: "#b5cea8", border: "#1e3a1e" },
-    nostromo: {name: "nostromo",bg: "#000800", title: "#fee049", icon: "#852639",text: "#95d2d3", border: "#c2c0ac" },
+  nostromo: {name: "nostromo",bg: "#000800", title: "#fee049", icon: "#852639", text: "#95d2d3", border: "#c2c0ac" },
   midnight: { name: "Midnight", bg: "#020024", title: "#00d4ff", icon: "#0099ff", text: "#eaeaea", border: "#090979" },
-  nostromo: {name: "nostromo", bg: "#000800", title: "#fee049", icon: "#852639", text: "#95d2d3", border: "#c2c0ac" },
    }
 const STAT_OPTIONS = [
   { key: "stars", label: "Stars" },
