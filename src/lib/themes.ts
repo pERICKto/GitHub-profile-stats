@@ -3,10 +3,10 @@ import { ThemeConfig } from "./types";
 export const themes: Record<string, ThemeConfig> = {
   nostromo: {
     name: "nostromo",
-    bg: "#000800",
-    text: "#95d2d3",
-    title: "#fee049",
-    icon: "#852639",
+    bg: "#00090a",
+    text: "#c3fbfd",
+    title: "#852639",
+    icon: "#fee049",
     border: "#c2c0ac",
   },
   light: {

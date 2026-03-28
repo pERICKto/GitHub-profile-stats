@@ -11,7 +11,7 @@ const HERO_THEMES = [
   { key: "ocean", bg: "#0b1929", title: "#00bfff", text: "#a3c4e0", icon: "#00e5ff", border: "#1a3a5c" },
   { key: "sunset", bg: "#1a1025", title: "#ff6b6b", text: "#e8d5c4", icon: "#ffa07a", border: "#4a2040" },
   { key: "forest", bg: "#0d1f0d", title: "#4ec9b0", text: "#b5cea8", icon: "#6a9955", border: "#1e3a1e" },
-  { key: "nostromo", bg: "#000800", title: "#fee049", icon: "#852639", text: "#95d2d3", border: "#c2c0ac" },
+  { key: "nostromo", bg: "#00090a", title: "#fee049", icon: "#852639", text: "#95d2d3", border: "#c2c0ac" },
 ];
 
 const ICONS: Record<string, string> = {
